@@ -1,0 +1,213 @@
+fileFormatVersion: 2
+guid: d3dea1a081d63a04f9014c13eda504ad
+timeCreated: 1524427471
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Armature.001
+    100002: ArmIK.l
+    100004: ArmIK.l_end
+    100006: ArmIK.r.001
+    100008: ArmIK.r.001_end
+    100010: Bone
+    100012: Camera
+    100014: Chest
+    100016: Circle
+    100018: Control
+    100020: Elbow.l
+    100022: Elbow.l_end
+    100024: Elbow.r.001
+    100026: Elbow.r.001_end
+    100028: Fingers.l
+    100030: Fingers.l_end
+    100032: Fingers.r.001
+    100034: Fingers.r.001_end
+    100036: Foot.l
+    100038: Foot.l_end
+    100040: Foot.r.001
+    100042: Foot.r.001_end
+    100044: Head
+    100046: Head_end
+    100048: human1realMesh
+    100050: //RootNode
+    100052: Knee.l
+    100054: Knee.l_end
+    100056: Knee.r.001
+    100058: Knee.r.001_end
+    100060: Lamp
+    100062: LegIK.l
+    100064: LegIK.r.001
+    100066: LowerArm.l
+    100068: LowerArm.r.001
+    100070: LowerLeg.l
+    100072: LowerLeg.l_end
+    100074: LowerLeg.r.001
+    100076: LowerLeg.r.001_end
+    100078: LowerThumb.l
+    100080: LowerThumb.l_end
+    100082: LowerThumb.r.001
+    100084: LowerThumb.r.001_end
+    100086: Neck
+    100088: Palm.l
+    100090: Palm.r.001
+    100092: Sphere
+    100094: Stomach
+    100096: UpperArm.l
+    100098: UpperArm.r.001
+    100100: UpperLeg.l
+    100102: UpperLeg.r.001
+    100104: UpperThumb.l
+    100106: UpperThumb.r.001
+    400000: Armature.001
+    400002: ArmIK.l
+    400004: ArmIK.l_end
+    400006: ArmIK.r.001
+    400008: ArmIK.r.001_end
+    400010: Bone
+    400012: Camera
+    400014: Chest
+    400016: Circle
+    400018: Control
+    400020: Elbow.l
+    400022: Elbow.l_end
+    400024: Elbow.r.001
+    400026: Elbow.r.001_end
+    400028: Fingers.l
+    400030: Fingers.l_end
+    400032: Fingers.r.001
+    400034: Fingers.r.001_end
+    400036: Foot.l
+    400038: Foot.l_end
+    400040: Foot.r.001
+    400042: Foot.r.001_end
+    400044: Head
+    400046: Head_end
+    400048: human1realMesh
+    400050: //RootNode
+    400052: Knee.l
+    400054: Knee.l_end
+    400056: Knee.r.001
+    400058: Knee.r.001_end
+    400060: Lamp
+    400062: LegIK.l
+    400064: LegIK.r.001
+    400066: LowerArm.l
+    400068: LowerArm.r.001
+    400070: LowerLeg.l
+    400072: LowerLeg.l_end
+    400074: LowerLeg.r.001
+    400076: LowerLeg.r.001_end
+    400078: LowerThumb.l
+    400080: LowerThumb.l_end
+    400082: LowerThumb.r.001
+    400084: LowerThumb.r.001_end
+    400086: Neck
+    400088: Palm.l
+    400090: Palm.r.001
+    400092: Sphere
+    400094: Stomach
+    400096: UpperArm.l
+    400098: UpperArm.r.001
+    400100: UpperLeg.l
+    400102: UpperLeg.r.001
+    400104: UpperThumb.l
+    400106: UpperThumb.r.001
+    2000000: Camera
+    2100000: No Name
+    2100002: human1real
+    2300000: Circle
+    2300002: Sphere
+    3300000: Circle
+    3300002: Sphere
+    4300000: Sphere
+    4300002: Circle
+    4300004: human1realMesh
+    9500000: //RootNode
+    10800000: Lamp
+    13700000: human1realMesh
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: human1real
+    second: {fileID: 2100000, guid: bdb551f3004d5e34692632f07c8e832d, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
